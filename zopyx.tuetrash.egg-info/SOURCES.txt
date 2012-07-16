@@ -1,0 +1,12 @@
+README.txt
+setup.py
+zopyx/__init__.py
+zopyx.tuetrash.egg-info/PKG-INFO
+zopyx.tuetrash.egg-info/SOURCES.txt
+zopyx.tuetrash.egg-info/dependency_links.txt
+zopyx.tuetrash.egg-info/entry_points.txt
+zopyx.tuetrash.egg-info/namespace_packages.txt
+zopyx.tuetrash.egg-info/not-zip-safe
+zopyx.tuetrash.egg-info/requires.txt
+zopyx.tuetrash.egg-info/top_level.txt
+zopyx/tuetrash/__init__.py
