@@ -23,6 +23,7 @@ setup(name='zopyx.tuetrash',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
+          'vobject',
           'setuptools',
           # -*- Extra requirements: -*-
       ],
